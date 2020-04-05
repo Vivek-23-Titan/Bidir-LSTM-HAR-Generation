@@ -15,4 +15,4 @@ Original Dataset Confusion Matrix
 
 Combined Dataset Confusion Matrix
 
-![](Combined_Confusion_Matrix.PNG)
+![](images/Combined_Confusion_Matrix.PNG)
