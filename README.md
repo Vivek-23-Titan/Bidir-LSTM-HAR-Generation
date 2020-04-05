@@ -7,4 +7,12 @@ The data used for classification is provided by the Wireless Sensor Data Mining 
 The results of the comparison between the validation dataset of the both datasets is shown below.
 
 ![](images/Val_Acc_Comparision.PNG)
+
 The comparison between the original dataset and the combined dataset is shown with the help of confusion matrix.
+Original Dataset Confusion Matrix
+
+![](images/Original_Confusion_Matrix.PNG)
+
+Combined Dataset Confusion Matrix
+
+![](Combined_Confusion_Matrix.PNG)
