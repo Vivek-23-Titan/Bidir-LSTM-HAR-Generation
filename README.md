@@ -22,4 +22,5 @@ The maximum accuracy attained by the combined training dataset was 94.1% which i
 
 ### Requirements
 
-TensorFlow version 2.2.0  Keras version 2.3.1
+TensorFlow version 2.2.0;
+Keras version 2.3.1
