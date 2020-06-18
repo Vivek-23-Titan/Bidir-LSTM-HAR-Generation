@@ -19,3 +19,8 @@ The comparison between the original dataset and the combined dataset is shown wi
 ![](images/Combined_Confusion_Matrix.PNG)
 
 The maximum accuracy attained by the combined training dataset was 94.1% which is an improvement of 4% over the original dataset.
+
+### Requirements
+
+TensorFlow version 2.2.0
+Keras version 2.3.1
