@@ -10,7 +10,7 @@ The code is available in Juypter notebooks divided into 2 parts.
 https://github.com/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/blob/master/Comparison_of_Activity_Classifier_Performance.ipynb
 
 ### The 1-D Convolutional Activity Performance comparsion
-
+https://github.com/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/blob/master/Comparison_of_Activity_Classifier_Performance.ipynb
 
 ## Results
 The results of the comparison between the validation dataset of the both datasets is shown below.
