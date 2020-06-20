@@ -19,7 +19,7 @@ The results of the comparison between the validation dataset of the both dataset
 
 The comparison between the original dataset and the combined dataset is shown with the help of confusion matrix.
 
-### Original Dataset Confusion Matrix (~90%)
+### Original Dataset Confusion Matrix (~89%)
 
 ![](images/Original_Confusion_Matrix.PNG)
 
