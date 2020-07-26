@@ -4,7 +4,7 @@ This was my final year B.E. project wherein the dataset was from Wireless Sensor
 
 ##### Detailed information is available in https://ieeexplore.ieee.org/document/9121096
 ## Dataset
-The data used for classification is provided by the Wireless Sensor Data Mining (WISDM) Lab and can be downloaded from (www.cis.fordham.edu/wisdm/dataset.php). It consists of 1,098,207 examples of various physical activities (sampled at 20Hz) with 6 attributes: user,activity,timestamp,x-acceleration,y-acceleration,z-acceleration, and the activities include: Walking, Jogging, Upstairs, Downstairs, Sitting, Standing.
+The data used for classification is provided by the Wireless Sensor Data Mining (WISDM) Lab and can be downloaded from [here](www.cis.fordham.edu/wisdm/dataset.php). It consists of 1,098,207 examples of various physical activities (sampled at 20Hz) with 6 attributes: user,activity,timestamp,x-acceleration,y-acceleration,z-acceleration, and the activities include: Walking, Jogging, Upstairs, Downstairs, Sitting, Standing.
 ## Code
 The code is available in Juypter notebooks divided into 2 parts.
 
