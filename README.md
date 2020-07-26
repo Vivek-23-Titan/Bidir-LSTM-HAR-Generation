@@ -11,8 +11,6 @@ The code is available in Juypter notebooks divided into following 2 parts:
 * [The 1-D Convolutional Activity Performance comparsion](https://github.com/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/blob/master/Comparison_of_Activity_Classifier_Performance.ipynb)
 
 ## Results
-* The maximum accuracy attained by the combined training dataset was 94.1% which is an improvement of 4% over the original dataset.
-
 The results of the comparison between the validation dataset of the both datasets is shown below.
 
 ![](images/Val_Acc_Comparision.PNG)
@@ -21,6 +19,8 @@ The comparison between the original dataset and the combined dataset is shown wi
 
 ### Original Dataset Confusion Matrix (~90%) and Combined Dataset Confusion Matrix (94.1%)
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/master/images/Original_Confusion_Matrix.PNG" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/master/images/Combined_Confusion_Matrix.PNG" width=400>
+
+* The maximum accuracy attained by the combined training dataset was 94.1% which is an improvement of 4% over the original dataset.
 
 ### Requirements
 
