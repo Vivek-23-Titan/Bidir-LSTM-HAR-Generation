@@ -7,7 +7,7 @@ This was my final year B.E. project wherein the dataset was from Wireless Sensor
 The data used for classification is provided by the Wireless Sensor Data Mining (WISDM) Lab and can be downloaded from [here](www.cis.fordham.edu/wisdm/dataset.php). It consists of 1,098,207 examples of various physical activities (sampled at 20Hz) with 6 attributes: user,activity,timestamp,x-acceleration,y-acceleration,z-acceleration, and the activities include: Walking, Jogging, Upstairs, Downstairs, Sitting, Standing.
 ## Code
 The code is available in Juypter notebooks divided into following 2 parts:
-* The Data Sequence Generation by Bidirectional LSTM <a href="https://colab.research.google.com/github/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/blob/master/Comparison_of_Activity_Classifier_Performance.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* The Data Sequence Generation by Bidirectional LSTM <a href="https://colab.research.google.com/github/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/blob/master/Human_Activity_Generation_using_Bidirectional_LSTM.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * The 1-D Convolutional Activity Performance comparsion <a href="https://colab.research.google.com/github/Vivek-23-Titan/Bidir-LSTM-HAR-Generation/blob/master/Comparison_of_Activity_Classifier_Performance.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Results
