@@ -31,5 +31,9 @@ Keras version 2.3.1
 ### Citation
 
 ```
-@INPROCEEDINGS{9121096,  author={V. {Aswal} and V. {Sreeram} and A. {Kuchik} and S. {Ahuja} and H. {Patel}},  booktitle={2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)},   title={Real-Time Human Activity Generation using Bidirectional Long Short Term Memory Networks},   year={2020},  volume={},  number={},  pages={775-780},  doi={10.1109/ICICCS48265.2020.9121096}}
+@INPROCEEDINGS{9121096,  author={V. {Aswal} and V. {Sreeram} and A. {Kuchik} and S. {Ahuja} and H. {Patel}},
+booktitle={2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)},
+title={Real-Time Human Activity Generation using Bidirectional Long Short Term Memory Networks},
+year={2020},  volume={},  number={},  pages={775-780},
+doi={10.1109/ICICCS48265.2020.9121096}}
 ```
